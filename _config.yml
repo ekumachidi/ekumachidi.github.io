@@ -1,0 +1,67 @@
+# Site settings
+title: Ekuma Chidi
+description: Ekuma Chidi, Personal Responsive website, Bootstrap Website, Flat Website, Software developer, web desinger, 
+    Smartphone Compatible site, Information Technology, Nigeria upcoming enterpreneurs, web design.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ekumachidi.gitlab.io/" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Banner Section
+hero: 112.jpg
+hero-title: Ekuma Chidi
+hero-description: Web Developer
+
+# Author - Creator
+author-name: Ekuma Chidi
+author-image: 10.jpg
+about-author: My name is Chidi Ekuma. I'm full-stack web developer. And also write articles about different technologies.
+author-email: example@gmail.com
+author-twitter: https://twitter.com/ekumachidic
+author-facebook: https://facebook.com/
+author-instagram: https://www.instagram.com/ekumachidi/
+author-pinterest: https://www.pinterest.com/bukkiarise/
+
+# Social Media Links (Links are located in hero and footer)
+twitter: https://twitter.com/ekumachidic
+facebook: https://facebook.com/
+medium: https://medium.com/@ekumac
+instagram: https://www.instagram.com/ekumachidi/
+pinterest: https://www.pinterest.com/bukkiarise/
+youtube: https://www.youtube.com/
+
+# Contact Form Settings
+contact-subtitle: Let's have a chat <br> <br> Please feel free to reach out to me if you have any questions or comments. Also, you could always just send me a friendly hello. # Title for the subscription form.
+
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+
+# Comment Section (Disqus)
+disqus-identifier: chidi-ekuma # Add your shortname for Disqus Comment. For example mr-brown
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 9
+paginate_path: "/page/:num"
+
+# Pages path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+
+include:
+  - _pages
+
+# Exclude from processing.
+exclude:
+ - Gemfile
+ - Gemfile.lock
+ - vendor
