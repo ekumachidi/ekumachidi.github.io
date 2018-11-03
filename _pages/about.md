@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: 12.jpg
+image: 6.jpg
 ---
 I am a web developer and tech enthusiast, with a thing for back-end.
 
