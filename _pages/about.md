@@ -7,10 +7,11 @@ I am a web developer and tech enthusiast, with a thing for back-end.
 
 I have a Bachelors Degree in Electrical/Electronics Engineering.
 
-My skill-set primarily includes object-oriented programming ( C# /Java / Ruby), web development and UX & UI design. I consider myself fluent in languages such as C#, Ruby, SQL, HTML, CSS3 & Javascript.
+I consider myself fluent in languages such as C#, Ruby, SQL, HTML, CSS3 & Javascript.
 
 In my spare time I like to keep active. I spend most of my time listening to music, chatting with friends, writing code and travelling or exploring new places.
 
+To know about what I've been upto professionally see my resume <a href="http://ekumachidi.gitlab.io/resume/"> here</a>
 
 ***
 

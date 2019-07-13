@@ -1,6 +1,6 @@
 # Site settings
 title: Ekuma Chidi
-description: Ekuma Chidi, Personal Responsive website, Bootstrap Website, Flat Website, Software developer, web desinger, 
+description: Ekuma Chidi, Personal Responsive website, Bootstrap Website, Flat Website, Software developer, web desinger,
     Smartphone Compatible site, Information Technology, Nigeria upcoming enterpreneurs, web design.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ekumachidi.gitlab.io/" # the base hostname & protocol for your site, e.g. http://example.com
@@ -13,7 +13,8 @@ hero-description: Web Developer
 # Author - Creator
 author-name: Ekuma Chidi
 author-image: 10.jpg
-about-author: My name is Chidi Ekuma. I'm full-stack web developer. And also write articles about different technologies.
+about-author: I'm full-stack web developer. I use Ruby on Rails, C# and other tools in the DotNet stack for everyday work;
+ I write articles about the different technologies I work with. I also write about productivity tips and soft skills for developers.
 author-email: example@gmail.com
 author-twitter: https://twitter.com/ekumachidic
 author-facebook: https://facebook.com/
