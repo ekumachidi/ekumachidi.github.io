@@ -6,7 +6,7 @@ img: 4.jpg
 tags: [Git, Team Foundation Server, Vsts, Github, Version Control, Source code]
 ---
 
-I get asked too often about how to check in source-codes to git repositories on TFS having explained the process over and over I decided to just write this step by step guide on how to check-in source codes to git repositories from the command line.
+My organisation is transitioning and adopting git as the defacto VCS system. As someone at the forefront of this adopttion, I get asked too often about how to check in source-codes to git repositories on TFS having explained the process over and over I decided to just write this step by step guide on how to check-in source codes to git repositories from the command line.
 
 Source code check in simply means uploading source codes to a remote repository. Checkout is the opposite of check-in; simply means to download a copy of the source code from the repository.
 
