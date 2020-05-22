@@ -36,4 +36,4 @@ But you’d notice that often times our environments are unnecessarily high stak
 
 You need to create low-stakes island in high-stake seas.
 
-P.S: I can writte about creating low-stakes island in high-stake seas if this get a lot reactions or interests.
+P.S: I can write about creating low-stakes island in high-stake seas if this get a lot reactions or interests.
