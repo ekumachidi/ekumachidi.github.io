@@ -3,7 +3,7 @@ layout: post
 title:  Self-Development the easy way
 date:   2016-05-16 07:46:27 +0100
 img: 3.jpg
-tags: [Self Improvement, Life Lessons, Life Hacking, Startup, Career]
+tags: [Self Improvement, Life Lessons, Life Hacks, Growth, Career]
 ---
 <!-- ![](https://cdn-images-1.medium.com/max/1600/1*ZuMcmE9meb_qL7i4RwS2SQ.jpeg) -->
 
