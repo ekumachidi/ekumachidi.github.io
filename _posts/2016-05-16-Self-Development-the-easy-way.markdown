@@ -3,7 +3,7 @@ layout: post
 title:  Self-Development the easy way
 date:   2016-05-16 07:46:27 +0100
 img: 3.jpg
-tags: [Self Improvement, Life Lessons, Life Hacking, Startup, Career]
+tags: [Self Improvement, Life Lessons, Life Hacks, Growth, Career]
 ---
 <!-- ![](https://cdn-images-1.medium.com/max/1600/1*ZuMcmE9meb_qL7i4RwS2SQ.jpeg) -->
 
@@ -36,4 +36,4 @@ But you’d notice that often times our environments are unnecessarily high stak
 
 You need to create low-stakes island in high-stake seas.
 
-P.S: Based on lessons learned from [Eduardo Briceño](https://medium.com/@ebriceno). We can talk about creating low-stakes island in high-stake seas based on reactions to this.
+P.S: I can write about creating low-stakes island in high-stake seas if this get a lot reactions or interests.
