@@ -7,7 +7,7 @@ tags: [UI-UX, PRODUCT DESIGN, DESIGN LEARNING, RESOURCES, Design Inspiration, Ar
 author: Ekuma Chidi
 ---
 
-So you've decided to learn design but for some reasons, you can only afford the time commitment required to undertake this new adventure; I mean you don't want to spend money.
+So you've decided to learn design but for some reasons, you can only afford the time commitment required to undertake this new adventure; you don't want to spend money.
 
 ![](/images/pages/design.jpeg)
 
