@@ -71,3 +71,5 @@ Here's the list:
 - [HeyDesigner](https://heydesigner.com): Design news. Curated daily for product people, user experience designers, product managers and frontend developers.
 - [Airbnb Design](https://airbnb.design):A behind-the-scenes look at the AirBnB design culture, process, learnings, and storytelling.
 - [Uber Design](https://www.uber.design): Get to know Design at Uber
+
+**P.S:** This post was inspired by Sam, it's not an exhaustive list but it's enough to get you started, please leave a comment if you know other awesome resources that should be on the list
