@@ -51,7 +51,7 @@ Here's the list:
 - [The UX Intern](https://theuxintern.com)
 - [UX Project Checklist](https://uxchecklist.github.io)
 - [Uxeria Blog](https://blog.uxeria.com)
-- [UX Magazine](https://uxmag.com): UX Magazine is a central, one-stop resource for everything related to user experience. 
+- [UX Magazine](https://uxmag.com): UX Magazine is a central, one-stop resource for everything related to user experience.
 - [52 Weeks of UX](https://52weeksofux.com): Weekly insights into better UX practices
 - [Sharpen - Design Challenge Generator](https://sharpen.design) : The best way to get better at anything is to practice often and with a variety of challenges. Sharpen helps you do just that
 - [Creative Types by Adobe Create](https://mycreativetype.com): Everyone has a creative "type"-knowing yours helps you maximize your potential. Take our quiz to discover your type!
