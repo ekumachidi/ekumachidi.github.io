@@ -1,0 +1,23 @@
+<header class="navbar-fixed-top">
+  <nav>
+    <ul>
+      <li>
+        <a href="/">Home</a>
+      </li>
+      {% for page in site.pages %}
+      {% unless page.name == 'tags.html' or page.name == '404.html' or page.name == 'style-guide.md' %}
+      {% if page.title %}
+      <li> <a href='{{ page.url | prepend: site.baseurl }}'>{{ page.title }}</a> </li>
+      {% endif %}
+      {% endunless %}
+      {% endfor %}
+      <!--
+                <li><a href="#about">About</a></li>
+                <li><a href="#experience">experience</a></li>
+                <li><a href="#projects">projects</a></li>
+                <li><a href="#contact">contact</a></li>
+                <li><a href="https://medium.com/@ekumac" target="_blank">Blog</a></li>
+                 -->
+    </ul>
+  </nav>
+</header>
